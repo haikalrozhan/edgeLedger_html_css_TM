@@ -72,7 +72,7 @@ img{
 /* Header */
 
 .hero{
-  background: url(../image/home/showcase.jpg) no-repeat center/cover ;
+  background: url(../images/home/showcase.jpg) no-repeat center/cover ;
   height: 100vh;
   position: relative;
   color: #fff;
@@ -129,3 +129,7 @@ img{
   margin-bottom: 15px;
 }
 
+/* Cases */
+.cases img:hover{
+  opacity: 0.7;
+}
